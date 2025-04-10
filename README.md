@@ -4,5 +4,5 @@ In this project we analyse video games sales data using MySQL
 In this project we analyse the video game sales in Japan, Europe and North Amaerica as well as world wide sales. This project is done using MySQL. 
 * step1: created a database named 'video games'
 * step2: Imported data from .csv file
-* step3: Comleted basic data cleaning and pre-processing
+* step3: Completed basic data cleaning and pre-processing
 * step4: Data analysing
